@@ -57,32 +57,35 @@
 # Implementation
 -----------------
 
-  * Main
+  * Main (메인 화면)
   
    <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/5.jpg"></img>
    
-  * Sign in
+  * Sign in (가입 화면)
   
    <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/6.jpg"></img>
    
-  * Signed in
+  * Signed in (가입 완료 화면)
   
    <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/7.jpg"></img>
    
-  * Player
+  * Player Main (플레이어 메인)
   
    <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/8.jpg"></img>
    
-  * Music Play
+  * Music Play (음악 재생 화면)
   
    <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/9.jpg"></img>
    
    
-  * Music Like
+  * Music Like (좋아요를 누른 음악 목록)
   
    <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/10.jpg"></img>
    
    
-  * Music Search
+  * Music Search (음악 검색)
   
    <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/11.jpg"></img>
+   
+## License
+This project is released under the MIT public license.
