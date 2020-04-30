@@ -1,6 +1,7 @@
 # MusicPlayer (C# Form)
 
 > C# MusicPlayer for term project (2017)
+  * C# Form Music Player with MS Access
 
-### 프로그램 루틴
+* Program routine
 <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/12.jpg"></img>
