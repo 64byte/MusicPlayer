@@ -10,34 +10,67 @@
 # UML
 -----------------
 
-* Music UML
+ * Music UML
 
-<img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/1.jpg"></img>
+  <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/1.jpg"></img>
 
-* MusicList UML
+ * MusicList UML
 
-<img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/2.jpg"></img>
+  <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/2.jpg"></img>
 
-* MusicList UML
+ * MusicList UML
 
-<img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/3.jpg"></img>
+  <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/3.jpg"></img>
 
-* Database UML
+ * Database UML
 
-<img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/4.jpg"></img>
+  <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/4.jpg"></img>
 
 # Source
 -----------------
 > Stack: C# (Form), MS Access
 
- - Form
+  - Form
 
- - Control (Custom)
+  - Control (Custom)
  
- - Database
+  - Database
  
- - Music
+  - Music
  
- - User
+  - User
  
- - Util
+  - Util
+
+# Implementation
+-----------------
+
+  * Main
+  
+   <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/5.jpg"></img>
+   
+  * Sign in
+  
+   <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/6.jpg"></img>
+   
+  * Signed in
+  
+   <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/7.jpg"></img>
+   
+  * Player
+  
+   <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/8.jpg"></img>
+   
+  * Music Play
+  
+   <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/9.jpg"></img>
+   
+   
+  * Music Like
+  
+   <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/10.jpg"></img>
+   
+   
+  * Music Search
+  
+   <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/11.jpg"></img>
