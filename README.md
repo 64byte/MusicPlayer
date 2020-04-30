@@ -7,7 +7,7 @@
 -----------------
 <img src="https://github.com/64byte/MusicPlayer/blob/develop/resources/12.jpg"></img>
 
-# UML
+# Class UML
 -----------------
 
  * Music UML
@@ -31,16 +31,28 @@
 > Stack: C# (Form), MS Access
 
   - Form
+    * Login Form: https://github.com/64byte/MusicPlayer/blob/develop/LoginForm.cs
+    * Sign in Form: https://github.com/64byte/MusicPlayer/blob/develop/SignInForm.cs
+    * Player Form: https://github.com/64byte/MusicPlayer/blob/develop/PlayerForm.cs
 
   - Control (Custom)
+    * MediaTrackBar: https://github.com/64byte/MusicPlayer/blob/develop/Control/MediaTrackBar.cs
+    * RoundButton: https://github.com/64byte/MusicPlayer/blob/develop/Control/RoundButton.cs
+    * SeekBar: https://github.com/64byte/MusicPlayer/blob/develop/Control/SeekBar.cs
  
   - Database
+    * https://github.com/64byte/MusicPlayer/blob/develop/Database/Database.cs
  
   - Music
- 
-  - User
+    * Music (Model): https://github.com/64byte/MusicPlayer/blob/develop/Music/Music.cs
+    * MusicList: https://github.com/64byte/MusicPlayer/blob/develop/Music/MusicList.cs
+    * MusicPlayer: https://github.com/64byte/MusicPlayer/blob/develop/Music/MusicPlayer.cs
+     
+  - User (Model)
+    * https://github.com/64byte/MusicPlayer/blob/develop/User/User.cs
  
   - Util
+    * https://github.com/64byte/MusicPlayer/blob/develop/Util/Util.cs
 
 # Implementation
 -----------------
