@@ -2,6 +2,12 @@
 
 > C# MusicPlayer for term project (2017)
   * C# Form Music Player with MS Access
+    * MusicPlayer.mdb 파일을 통해 음악을 불러들여 재생하는 음악 플레이어입니다. 기능은 다음과 같습니다
+      * 회원가입
+      * 로그인
+      * 재생/일시정지/뒤로감기/빨리감기
+      * 음악 좋아요
+      * 음악 검색
 
 # Program routine
 -----------------
